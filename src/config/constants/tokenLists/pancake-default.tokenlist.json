@@ -1,0 +1,70 @@
+{
+  "name": "Odon Finance Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://moon-odon-finance.netlify.app/logo.png",
+  "keywords": ["odon", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Moonriver",
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "symbol": "WMOVR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg"
+    },
+    {
+      "name": "Binance USD - AnySwap",
+      "symbol": "BUSD",
+      "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg"
+    },
+    {
+      "name": "USD Coin - AnySwap",
+      "symbol": "USDC",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+    },
+    {
+      "name": "Tether USD - AnySwap",
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+    },
+    {
+      "name": "Magic Internet Money - AnySwap",
+      "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg"
+    },
+    {
+      "name": "Dai Stablecoin - AnySwap",
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
+    },
+    {
+      "name": "Odon Finance Token",
+      "address": "0x04486A7b832c5270B24d1c4B4E86F17b74B88549",
+      "symbol": "ODENA",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://moon-odon-finance.netlify.app/logo.png"
+    }
+  ]
+}
